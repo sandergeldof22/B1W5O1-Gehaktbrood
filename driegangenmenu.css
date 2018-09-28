@@ -1,0 +1,30 @@
+body{
+	text-align: left;
+	margin-left: 300px;
+	margin-right: 300px;
+	font-family: 'Roboto', sans-serif;
+	background-color: #FFE4C4;
+}
+
+div{ text-align: left; }
+
+
+
+p{
+	font-size: 20px;
+	line-height: 32px;
+}
+
+h1{
+	font-size: 44px;
+	line-height: 40px;
+}
+
+img{
+	display: block;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 25px;
+}
+
+
