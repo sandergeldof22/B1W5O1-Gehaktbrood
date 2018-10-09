@@ -1,30 +1,151 @@
+div{
+	font-family: Roboto;
+	font-size: 20px;
+	width: 70%;
+	line-height: 26px;
+	margin: 0 auto;
+}
+
+.Driemenu{
+	background-color: #FFEBCD
+}
+.Kippen{
+	background-color: #F0E68C
+}
+.Rijst{
+	background-color: #00FA9A
+}
 body{
 	text-align: left;
 	margin-left: 300px;
 	margin-right: 300px;
 	font-family: 'Roboto', sans-serif;
-	background-color: #FFE4C4;
-}
-
-div{ text-align: left; }
-
-
-
-p{
-	font-size: 20px;
-	line-height: 32px;
-}
-
-h1{
-	font-size: 44px;
-	line-height: 40px;
 }
 
 img{
 	display: block;
-	margin-left: 25px;
-	margin-right: 25px;
+	margin-right: auto;
 	margin-bottom: 25px;
+
 }
+
+ul{
+	text-align: left;
+	list-style-position: inside;
+	display: inline-block;
+}
+
+ol{
+	text-align: left;
+	list-style-position: inside;
+	display: inline-block;
+}
+
+p{
+	font-size: 22px;
+	line-height: 30px;
+}
+
+h1{
+	font-size: 36px;
+	line-height: 36px;
+}
+
+h2{
+	font-size: 32px;
+	line-height: 32px;
+}
+
+
+.GehaktA{
+	font-size: 20px;
+	line-height: 26px;
+	margin-top: 10px;
+	margin-bottom:10px;
+	margin-right: 10px;
+}
+
+.GehaktB{
+	font-size: 20px;
+	line-height: 26px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px
+}
+.GehaktC{
+	background-color: #def6ed;
+	border-radius: 4px;
+	line-height: 40px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.KippenA{
+	font-size: 20px;
+	line-height: 26px;
+	margin-top: 15px;
+	margin-bottom:15px;
+	margin-right: 15px;
+}
+
+.KippenB{
+	font-size: 20px;
+	line-height: 26px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: 15px;
+}
+
+.KippenC{
+	background-color: #FF69B4;
+	border-radius: 4px;
+	line-height: 40px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.KippenD{
+	background-color: #F08080;
+	border-radius: 4px;
+	line-height: 40px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.RijstA{
+	font-size: 20px;
+	line-height: 26px;
+	margin-top: 17px;
+	margin-bottom:17px;
+	margin-right: 17px;
+}
+
+.RijstB{
+	font-size: 20px;
+	line-height: 26px;
+	margin-top: 17px;
+	margin-bottom: 17px;
+	margin-right: 17px;
+}
+
+.RijstC{
+	background-color: #DDA0DD;
+	border-radius: 5px;
+	line-height: 40px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.RijstD{
+	background-color: #48D1CC;
+	border-radius: 5px;
+	line-height: 40px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+
+
+
 
 
